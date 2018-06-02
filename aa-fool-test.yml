@@ -1,5 +1,5 @@
-hello world! you master the way:
-aa-fool =  {application}
-test = {profile}
+desc : hello world! you master the way:
+aa-fool : {application}
+test : {profile}
 
-you can find this config By config server ,by call url: ip:port/aa-fool-test.yml
+result : you can find this config By config server ,by call url: ip:port/aa-fool-test.yml
